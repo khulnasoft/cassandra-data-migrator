@@ -8,6 +8,8 @@ cassandra-data-migrator.iml
 SIT/local
 SIT/**/output/*
 *.DS_Store
+.classpath
+.project
 .settings/*
 src/main/main.iml
 src/test/test.iml
