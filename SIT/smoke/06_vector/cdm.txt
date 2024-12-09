@@ -1,0 +1,2 @@
+migrateData com.khulnasoft.cdm.job.Migrate /smoke/06_vector/migrate.properties
+validateData com.khulnasoft.cdm.job.DiffData /smoke/06_vector/migrate.properties

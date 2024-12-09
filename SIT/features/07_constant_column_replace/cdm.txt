@@ -1,0 +1,3 @@
+migrateData com.khulnasoft.cdm.job.Migrate migrate.properties
+validateData com.khulnasoft.cdm.job.DiffData migrate.properties
+fixData com.khulnasoft.cdm.job.DiffData fix.properties
